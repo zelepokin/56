@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\56\56\bin\Debug\56.exe.config
+C:\Users\user\source\repos\56\56\bin\Debug\56.exe
+C:\Users\user\source\repos\56\56\bin\Debug\56.pdb
+C:\Users\user\source\repos\56\56\bin\Debug\56.xml
+C:\Users\user\source\repos\56\56\obj\Debug\56.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\56\56\obj\Debug\_56.Form1.resources
+C:\Users\user\source\repos\56\56\obj\Debug\_56.Resources.resources
+C:\Users\user\source\repos\56\56\obj\Debug\56.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\56\56\obj\Debug\56.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\56\56\obj\Debug\56.exe
+C:\Users\user\source\repos\56\56\obj\Debug\56.xml
+C:\Users\user\source\repos\56\56\obj\Debug\56.pdb
